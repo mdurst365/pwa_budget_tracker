@@ -6,13 +6,18 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 # Functionality Tasklist
 -[] Enter deposits offline
+
 -[] Enter expenses offline
+
 -[] When brought back online offline entries should be added to tracker.
 
 ## Acceptance Criteria
 GIVEN a user is on Budget App without an internet connection
+
 -[] WHEN the user inputs a withdrawal or deposit
+
 -[] THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+
 
 ## Link to deployed assignment will go here
 
