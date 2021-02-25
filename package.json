@@ -25,5 +25,5 @@
     "mongoose": "^5.11.18",
     "morgan": "^1.10.0"
   },
-  "keywords": []
+  "keywords": ["PWA", "Budget App", "Online/Offline Budget"]
 }
