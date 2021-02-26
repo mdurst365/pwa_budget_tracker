@@ -23,5 +23,9 @@ GIVEN a user is on Budget App without an internet connection
 
 https://pwa-budget-tracker2.herokuapp.com/
 
-## Screencap of assignment will go here
+## Animated Preview
+
+[Screencap](https://raw.githubusercontent.com/mdurst365/pwa_budget_tracker/main/Budget-Tracker.gif)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
