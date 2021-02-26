@@ -5,23 +5,23 @@ This is a homework assignment for the OSU Coding Bootamp. The goal of this assig
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
 # Functionality Tasklist
--[] Enter deposits offline
+-[x] Enter deposits offline
 
--[] Enter expenses offline
+-[x] Enter expenses offline
 
--[] When brought back online offline entries should be added to tracker.
+-[x] When brought back online offline entries should be added to tracker.
 
 ## Acceptance Criteria
 GIVEN a user is on Budget App without an internet connection
 
--[] WHEN the user inputs a withdrawal or deposit
+-[x] WHEN the user inputs a withdrawal or deposit
 
--[] THEN that will be shown on the page, and added to their transaction history when their connection is back online.
-
-
-## Link to deployed assignment will go here
+-[x] THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
 
+## View Live on Heroku
+
+https://pwa-budget-tracker2.herokuapp.com/
 
 ## Screencap of assignment will go here
 
